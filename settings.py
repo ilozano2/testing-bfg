@@ -1,3 +1,3 @@
-API_KEY='Oh no this should''t be here'
+API_KEY='?'
 
 bla = 'bla bla'
