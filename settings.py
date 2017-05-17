@@ -1,3 +1,3 @@
-API_KEY='Cambio M1'
+API_KEY='Cambio M2'
 
 bla = 'bla bla'
